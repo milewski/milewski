@@ -1,4 +1,8 @@
-# :man_technologist: Rafael Milewski
+# :man_technologist: Rafael Milewski ![follow](https://img.shields.io/github/followers/milewski.svg?style=social&label=Follow&maxAge=2592000) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=milewski) 
+
+![nvidia](https://img.shields.io/badge/NVIDIA-RTX_2080_Max--Q-76B900?style=flat&logo=nvidia&logoColor=white)
+![switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
+
 
 ```rust
 type Str = &'static str;
@@ -9,7 +13,7 @@ enum Principle { SOLID, DRY, KISS, YAGNI, OPPA_GANGNAM_STYLE }
 #[derive(Debug)]
 struct Stack {
     languages: Vec<Str>,
-    frameworks: Vec<Str>,
+    libs_and_frameworks: Vec<Str>,
     devops: Vec<Str>,
     databases: Vec<Str>,
 }
@@ -20,8 +24,8 @@ struct Profile {
     from: Str,
     current_in: Str,
     principles: Vec<Principle>,
+    certifications: [Str; 1],
     tech: Stack,
-    certifications: [Str; 1]
 }
 
 fn main() -> () {
@@ -37,15 +41,16 @@ fn main() -> () {
         tech: Stack {
             languages: vec![ "HTML/CSS", "Typescript", "PHP", "Dart", "Python", "Go", "Rust" ],
             databases: vec![ "Redis", "MySQL", "Meilisearch", "MongoDB", "SurrealDB", "LevelDB" ],
-            frameworks: vec![
-                "Vue.js (2, 3)", "React", "Svelte", "Flutter", "NativeScript",
+            libs_and_frameworks: vec![
+                "Vue.js", "React", "Svelte",
                 "Webpack", "Vite", "Tailwind", "SASS",
                 "Three.js", "Pixi.js",
-                "Laravel", "Nova", "GraphQL",
                 "Nuxt", "Next", "Nodejs",
+                "Flutter", "NativeScript",
+                "Laravel", "Nova", "GraphQL",
             ],
             devops: vec![
-                "Linux", "Docker + Swarm", "Caddy", "Traefik",
+                "Linux", "Docker + Swarm", "Caddy", "Traefik", "Terraform",
                 "CD/CI (Github Actions, Dagger, Drone)",
                 "Monitoring (TICK Stack)",
                 "Cloud Hosting (Alibaba Cloud, GCP, AWS, Vultr, DO)",
