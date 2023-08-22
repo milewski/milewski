@@ -1,8 +1,6 @@
 # :man_technologist: Rafael Milewski ![follow](https://img.shields.io/github/followers/milewski.svg?style=social&label=Follow&maxAge=2592000) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=milewski) 
 
-![nvidia](https://img.shields.io/badge/NVIDIA-RTX_2080_Max--Q-76B900?style=flat&logo=nvidia&logoColor=white)
-![switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
-
+![Header](https://github.com/milewski/milewski/assets/2874967/d659ff39-6280-49ae-9bc8-72f31632bd88)
 
 ```rust
 type Str = &'static str;
@@ -24,7 +22,6 @@ struct Profile {
     from: Str,
     current_in: Str,
     principles: Vec<Principle>,
-    certifications: [Str; 1],
     tech: Stack,
 }
 
@@ -35,12 +32,9 @@ fn main() -> () {
         from: "Brazil",
         current_in: "China",
         principles: vec![ Principle::SOLID, Principle::DRY, Principle::YAGNI, Principle::KISS ],
-        certifications: [
-            "https://exam.laravelcert.com/is/rafael-milewski/certified-since/2021-05-24"
-        ],
         tech: Stack {
-            languages: vec![ "HTML/CSS", "Typescript", "PHP", "Dart", "Python", "Go", "Rust" ],
-            databases: vec![ "Redis", "MySQL", "Meilisearch", "MongoDB", "SurrealDB", "LevelDB" ],
+            languages: vec![ "HTML/CSS", "Typescript", "PHP", "Dart", "Rust" ],
+            databases: vec![ "Redis", "MySQL", "Meilisearch", "MongoDB", "SurrealDB" ],
             libs_and_frameworks: vec![
                 "Vue.js", "React", "Svelte",
                 "Webpack", "Vite", "Tailwind", "SASS",
