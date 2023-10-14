@@ -63,6 +63,5 @@ If my open-source contributions are simplifying your work, and you'd like to sup
 
 ```
 BTC: bc1qkrcpyq9ep20nkkkh60jev7mpf0ytgjhev04aaz
-USDT: 0xcc13f793a3842fD3fE192f5358249612Fa3D173F
 ETH: 0xcc13f793a3842fD3fE192f5358249612Fa3D173F
 ```
