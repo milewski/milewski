@@ -1,6 +1,6 @@
 # :man_technologist: Rafael Milewski ![follow](https://img.shields.io/github/followers/milewski.svg?style=social&label=Follow&maxAge=2592000) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=milewski) 
 
-![Header](https://github.com/milewski/milewski/assets/2874967/d659ff39-6280-49ae-9bc8-72f31632bd88)
+![Header](https://github.com/milewski/milewski/assets/2874967/1736d330-71ea-4ba5-9b37-f24a58220471)
 
 ```rust
 type Str = &'static str;
