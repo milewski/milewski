@@ -1,8 +1,8 @@
 # :man_technologist: Rafael Milewski ![follow](https://img.shields.io/github/followers/milewski.svg?style=social&label=Follow&maxAge=2592000) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=milewski) 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milewski/milewski/assets/2874967/c402d343-00b5-4abc-bc44-77c456a0e830">
-  <img src="https://github.com/milewski/milewski/assets/2874967/86c64120-153c-466e-94ea-87e5e86915a8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milewski/milewski/assets/2874967/351d741f-0e23-456b-a0ae-95decfd4fc02">
+  <img src="https://github.com/milewski/milewski/assets/2874967/74d00a0c-b1f6-401a-aff5-1dad0e5b19f4">
 </picture>
 
 ```rust
