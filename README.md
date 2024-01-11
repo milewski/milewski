@@ -59,12 +59,3 @@ fn main() -> () {
 
 }
 ```
-
-### Support
-
-If my open-source contributions are simplifying your work, and you'd like to support me as I support you, you can consider buying me a coffee or two. 😉
-
-```
-BTC: bc1qkrcpyq9ep20nkkkh60jev7mpf0ytgjhev04aaz
-ETH: 0xcc13f793a3842fD3fE192f5358249612Fa3D173F
-```
