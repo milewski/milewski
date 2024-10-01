@@ -1,61 +1,45 @@
-# :man_technologist: Rafael Milewski ![follow](https://img.shields.io/github/followers/milewski.svg?style=social&label=Follow&maxAge=2592000) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=milewski) 
+# :man_technologist: Rafael Milewski ![follow](https://img.shields.io/github/followers/milewski.svg?style=social&label=Follow&maxAge=2592000) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=milewski)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milewski/milewski/assets/2874967/351d741f-0e23-456b-a0ae-95decfd4fc02">
-  <img src="https://github.com/milewski/milewski/assets/2874967/74d00a0c-b1f6-401a-aff5-1dad0e5b19f4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f8e2e195-e769-41e3-96c7-ec4d91ab65bb">
+  <img src="https://github.com/user-attachments/assets/5945027b-df5f-4490-810a-cf7eb7954376">
 </picture>
 
+---
+
+Hi there, I’m Rafael Milewski, a full-stack developer living in China for over a decade. 
+I build all sorts of things, mostly with PHP and Rust, while also tinkering with hardware like ESP32 boards and contributing to open-source projects.
+
+#### A few bytes about me:
+- I use both `QWERTY` and `Colemak` keyboard layouts.
+- People ask me which OS do I use? MacOS at work, NixOS at home, Windows on weekends.
+- I learned electronics to teach my children how to build their own toys.
+- I collect breakout boards as if they were collectables. Gotta Catch 'Em All!.
+
+#### My current stack is:
+- for backend: `PHP` `Laravel` `Laravel Nova` `Filament CMS`
+- for frontend: `Vue` `Svelte` `React` `TypeScript` `ThreeJs`
+- for infra: `Docker Swarm` `Traefik` `Terraform` `Ansible` `Caddy` `GitHub Actions` `(Aliyun / AWS / Vultr)`
+- for IoT: `ESP32` `ESP-IDF` `ESP32C3/S3` `APIO` `Raspberry Pi`
+- for AI: `ComfyUI` `Candle` `Burn` `Ollama`
+- for design: `Photoshop` `Illustrator` `InDesign` `Figma` `After Effects`
+
+#### Hobbies
+- I love tinkering with hardware! Whenever I’m bored, I grab a random breakout board and write a driver for it.
+- I enjoy discovering music in languages I don't speak. Sometimes I hit the jackpot:
+  [OTYKEN](https://www.youtube.com/watch?v=nD1f1Ian0kA)
+  [Uuhai](https://www.youtube.com/watch?v=B1EQWIOTxOs)
+
+#### Skills I'm Looking to Master
+- Verilog: I’ve bought a few FPGA boards, and writing hardware code is fascinating!
+- WebAssembly: Still searching for the perfect project to apply my Wasm knowledge.
+- AI development: Current frameworks make it simple, but I want to go beyond them.
+
 ```rust
-type Str = &'static str;
 
-#[derive(Debug)]
-enum Principle { SOLID, DRY, KISS, YAGNI, OPPA_GANGNAM_STYLE }
-
-#[derive(Debug)]
-struct Stack {
-    languages: Vec<Str>,
-    libs_and_frameworks: Vec<Str>,
-    devops: Vec<Str>,
-    databases: Vec<Str>,
-}
-
-#[derive(Debug)]
-struct Profile {
-    name: Str,
-    from: Str,
-    current_in: Str,
-    principles: Vec<Principle>,
-    tech: Stack,
-}
-
-fn main() -> () {
-
-    let profile = Profile {
-        name: "Rafael Milewski",
-        from: "Brazil",
-        current_in: "China",
-        principles: vec![ Principle::SOLID, Principle::DRY, Principle::YAGNI, Principle::KISS ],
-        tech: Stack {
-            languages: vec![ "HTML/CSS", "Typescript", "PHP", "Dart", "Rust" ],
-            databases: vec![ "Redis", "MySQL", "Meilisearch", "MongoDB", "SurrealDB" ],
-            libs_and_frameworks: vec![
-                "Vue.js", "React", "Svelte",
-                "Webpack", "Vite", "Tailwind", "SASS",
-                "Three.js", "Pixi.js",
-                "Nuxt", "Next", "Nodejs",
-                "Flutter", "NativeScript",
-                "Laravel", "Nova", "GraphQL",
-            ],
-            devops: vec![
-                "Linux", "Docker + Swarm", "Caddy", "Traefik", "Terraform",
-                "CD/CI (Github Actions, Dagger, Drone)",
-                "Monitoring (TICK Stack)",
-                "Cloud Hosting (Alibaba Cloud, GCP, AWS, Vultr, DO)",
-            ],
-        },
-    };
-
-    println!("Hi, thanks for checking out my {:#?}", profile);
-
-}
 ```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/07c03f60-782a-4221-8dc5-ee7ddeaa10e6">
+  <img src="https://github.com/user-attachments/assets/762deea6-e929-4509-93b3-da2b857afdfd">
+</picture>
