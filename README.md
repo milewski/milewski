@@ -7,7 +7,8 @@
 
 ---
 
-Hi there, I’m Rafael Milewski, a full-stack developer living in China for over a decade. I build all sorts of things, mostly with PHP and Rust, while also tinkering with hardware like ESP32 boards and contributing to open-source projects.
+Hi there, I’m Rafael Milewski, a full-stack developer living in China for over a decade. 
+I build all sorts of things, mostly with PHP and Rust, while also tinkering with hardware like ESP32 boards and contributing to open-source projects.
 
 #### A few bytes about me:
 - I use both `QWERTY` and `Colemak` keyboard layouts.
@@ -42,4 +43,3 @@ Hi there, I’m Rafael Milewski, a full-stack developer living in China for over
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/07c03f60-782a-4221-8dc5-ee7ddeaa10e6">
   <img src="https://github.com/user-attachments/assets/762deea6-e929-4509-93b3-da2b857afdfd">
 </picture>
-
