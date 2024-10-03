@@ -36,7 +36,7 @@ I build all sorts of things, mostly with PHP and Rust, while also tinkering with
 - AI development: Current frameworks make it simple, but I want to go beyond them.
 
 ```rust
-
+//
 ```
 
 <picture>
