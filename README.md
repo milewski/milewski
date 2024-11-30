@@ -35,8 +35,15 @@ I build all sorts of things, mostly with PHP and Rust, while also tinkering with
 - WebAssembly: Still searching for the perfect project to apply my Wasm knowledge.
 - AI development: Current frameworks make it simple, but I want to go beyond them.
 
+#### Awards
+
+I have won several hackathon competitions hosted by the dev.to platform:
+
+- [Announcement](https://dev.to/devteam/congrats-to-the-winners-of-the-open-source-ai-challenge-with-pgai-and-ollama-46b6) ⸝ [DearBook: Create Magical Illustrated Children's Stories with AI](https://dev.to/milewski/dearbook-create-magical-illustrated-childrens-stories-with-ai-4mpe) 
+- [Announcement](https://dev.to/devteam/congrats-to-the-pinata-challenge-winners-5d2e) ⸝ [Noisy Monsters 🎶👾](https://dev.to/milewski/noisy-monsters-4lki)
+
 ```rust
-//
+  ㅤㅤㅤㅤㅤㅤㅤ  
 ```
 
 <picture>
