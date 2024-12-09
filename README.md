@@ -37,13 +37,13 @@ I build all sorts of things, mostly with PHP and Rust, while also tinkering with
 
 #### Awards
 
-I have won several hackathon competitions hosted by the dev.to platform:
+I have participated in several hackathon competitions hosted on the Dev.to platform.
 
-- [Announcement](https://dev.to/devteam/congrats-to-the-winners-of-the-open-source-ai-challenge-with-pgai-and-ollama-46b6) ⸝ [DearBook: Create Magical Illustrated Children's Stories with AI](https://dev.to/milewski/dearbook-create-magical-illustrated-childrens-stories-with-ai-4mpe) 
-- [Announcement](https://dev.to/devteam/congrats-to-the-pinata-challenge-winners-5d2e) ⸝ [Noisy Monsters 🎶👾](https://dev.to/milewski/noisy-monsters-4lki)
+- [EchoSense: Your Pocket-Sized Companion for Smarter Meetings](https://dev.to/milewski/echosense-your-pocket-sized-companion-for-smarter-meetings-3i71)
+- [DearBook: Create Magical Illustrated Children's Stories with AI](https://dev.to/milewski/dearbook-create-magical-illustrated-childrens-stories-with-ai-4mpe) 
+- [Noisy Monsters 🎶👾](https://dev.to/milewski/noisy-monsters-4lki)
 
 ```rust
-  ㅤㅤㅤㅤㅤㅤㅤ  
 ```
 
 <picture>
