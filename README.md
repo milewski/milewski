@@ -17,7 +17,7 @@ I build all sorts of things, mostly with PHP and Rust, while also tinkering with
 - I collect breakout boards as if they were collectables. Gotta Catch 'Em All!.
 
 #### My current stack is:
-- for backend: `PHP` `Laravel` `Laravel Nova` `Filament CMS`
+- for backend: `Rust` `PHP` `Laravel` `Laravel Nova` `Filament CMS`
 - for frontend: `Vue` `Svelte` `React` `TypeScript` `ThreeJs`
 - for infra: `Docker Swarm` `Traefik` `Terraform` `Ansible` `Caddy` `GitHub Actions` `(Aliyun / AWS / Vultr)`
 - for IoT: `ESP32` `ESP-IDF` `ESP32C3/S3` `APIO` `Raspberry Pi`
