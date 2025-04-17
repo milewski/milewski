@@ -35,6 +35,12 @@ I build all sorts of things, mostly with PHP and Rust, while also tinkering with
 - WebAssembly: Still searching for the perfect project to apply my Wasm knowledge.
 - AI development: Current frameworks make it simple, but I want to go beyond them.
 
+#### Famous Quotes From My Head
+
+- “In Rust you can build things that would be abusively irresponsible to build in any other language.”
+- “With great power comes longer generation times.”
+- “In Rust We Trust.”
+
 #### Awards
 
 I have participated in several hackathon competitions hosted on the Dev.to platform.
@@ -44,6 +50,7 @@ I have participated in several hackathon competitions hosted on the Dev.to platf
 - [Noisy Monsters 🎶👾](https://dev.to/milewski/noisy-monsters-4lki)
 
 ```rust
+//
 ```
 
 <picture>
