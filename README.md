@@ -45,6 +45,8 @@ I build all sorts of things, mostly with PHP and Rust, while also tinkering with
 
 I have participated in several hackathon competitions hosted on the Dev.to platform.
 
+- [Conduit: A UI-less node-based system](https://dev.to/milewski/conduit-a-ui-less-node-based-system-3nkh)
+- [Imaginarium: Build. Explore. Leave Your Mark.](https://dev.to/milewski/imaginarium-build-explore-leave-your-mark-1p3i)
 - [EchoSense: Your Pocket-Sized Companion for Smarter Meetings](https://dev.to/milewski/echosense-your-pocket-sized-companion-for-smarter-meetings-3i71)
 - [DearBook: Create Magical Illustrated Children's Stories with AI](https://dev.to/milewski/dearbook-create-magical-illustrated-childrens-stories-with-ai-4mpe) 
 - [Noisy Monsters 🎶👾](https://dev.to/milewski/noisy-monsters-4lki)
